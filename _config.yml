@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
-paginate: 5
+title: Tim Rayburn
+description: Lead with grace and be wholly you.
+url: https://timrayburn.net
+avatar: /images/tim-rayburn-smirk.jpg
+paginate: 3
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /images/hero.jpeg
 
 # Gems
 plugins:
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: trayburn
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Tim Rayburn
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/trayburn
+    - https://github.com/trayburn
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Tim Rayburn
+  url: https://github.com/trayburn/
+  email: tim@timrayburn.net
